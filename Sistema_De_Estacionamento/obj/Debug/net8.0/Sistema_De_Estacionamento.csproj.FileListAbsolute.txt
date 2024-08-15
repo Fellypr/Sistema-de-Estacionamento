@@ -1,0 +1,11 @@
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\bin\Debug\net8.0\Sistema_De_Estacionamento.deps.json
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\bin\Debug\net8.0\Sistema_De_Estacionamento.dll
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\bin\Debug\net8.0\Sistema_De_Estacionamento.pdb
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\obj\Debug\net8.0\Sistema_De_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\obj\Debug\net8.0\Sistema_De_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\obj\Debug\net8.0\Sistema_De_Estacionamento.AssemblyInfo.cs
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\obj\Debug\net8.0\Sistema_De_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\obj\Debug\net8.0\Sistema_De_Estacionamento.dll
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\obj\Debug\net8.0\refint\Sistema_De_Estacionamento.dll
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\obj\Debug\net8.0\Sistema_De_Estacionamento.pdb
+C:\Users\User\Documents\C#\desafios\Sistema_De_Estacionamento\obj\Debug\net8.0\ref\Sistema_De_Estacionamento.dll
